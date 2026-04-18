@@ -1,0 +1,20 @@
+numpy
+pandas
+# FACE RECOGNITION
+scikit-learn
+dlib-bin  #detect faces(makes reactangle around faces but we need embeddings of faces so we use ageitgey models with dlib-bin)
+git+https://github.com/ageitgey/face_recognition_models
+setuptools
+
+# DATABASE
+supabase   #provide database
+
+# HASHING
+# password -> 1234   .....AFTER HASHING.....jsfnalre
+bcrypt  # provides methods for hashing(password is stored in database after hashing)
+
+segno # creates qr code
+
+pillow # helps in preprocessing if images and provides many methods
+
+streamlit
