@@ -1,3 +1,4 @@
+streamlit
 numpy
 pandas
 # FACE RECOGNITION
@@ -15,6 +16,7 @@ bcrypt  # provides methods for hashing(password is stored in database after hash
 
 segno # creates qr code
 
-pillow # helps in preprocessing if images and provides many methods
+Pillow # helps in preprocessing if images and provides many methods
 
-streamlit
+librosa
+resemblyzer
